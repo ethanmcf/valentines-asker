@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Removed Vite starter styles that centered the app and limited width.
+   Tailwind's preflight already sets sensible defaults. */
