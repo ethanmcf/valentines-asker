@@ -44,7 +44,7 @@ const SuccessPage = () => {
       </h1>
       <div className="mt-6 bg-white/50 p-6 rounded-3xl border-2 border-dashed border-[#ffb3c1]">
         <p className="text-[#fb6f92] text-xl font-bold">Feb 16th @ 8:30 PM</p>
-        <p className="text-pink-400 mt-2 italic text-sm">Dress cute! </p>
+        <p className="text-pink-400 mt-2 italic text-sm">Dress cute mc! </p>
       </div>
 
       <motion.p

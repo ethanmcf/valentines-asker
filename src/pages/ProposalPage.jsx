@@ -15,7 +15,7 @@ const ProposalPage = ({ onAccept }) => {
   return (
     <div className="text-center">
       <h1 className="text-4xl font-bold text-[#fb6f92] mb-8">
-        Will you be my valentine?
+        Dani, will you be my valentine?
       </h1>
       <BearDisplay type="hug" />
       <div className="flex gap-4 justify-center items-center mt-10">
